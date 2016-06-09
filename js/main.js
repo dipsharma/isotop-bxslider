@@ -1,10 +1,6 @@
 $( document ).ready(function() {
 
-
     /////////// filter Isotop
-
-
-
     $( function() {
       // init Isotope
       var $grid = $('.grid').isotope({
@@ -43,10 +39,7 @@ $( document ).ready(function() {
       
     });
 
-
-
     /////////// Sort Isotop
-
     var $grid = $('.grid').isotope({
         itemSelector: '.grid-item',
         layoutMode: 'fitRows',
@@ -80,7 +73,6 @@ $( document ).ready(function() {
 
 
     /////////// Project slider
-
     var projectSlider;
 
     $(function() {
