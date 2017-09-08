@@ -1,5 +1,5 @@
 # Isotop with BX Slider
 
 
-Demo: http://demo.dipsfactory.com/isotop-bxslider
+Demo: http://www.dipsfactory.com/demo/isotop-bxslider
 
